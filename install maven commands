@@ -14,7 +14,7 @@ Configuring Apache Maven Environment
 ------------------
 
 $ cd /etc/profile.d/
-$ sudo gedit maven.sh
+$ sudo vim maven.sh
 ###################################################
 # Apache Maven Environment Variables
 # MAVEN_HOME for Maven 1 - M2_HOME for Maven 2

@@ -2,8 +2,8 @@
 Install Maven Commands  
 ------------------
 cd /opt/
-sudo wget http://www-eu.apache.org/dsudo wget https://www-eu.apache.org/dist/maven/maven-3/3.6.1/binaries/apache-maven-3.6.1-bin.tar.gz
-ist/maven/m...
+sudo wget https://www-eu.apache.org/dist/maven/maven-3/3.6.1/binaries/apache-maven-3.6.1-bin.tar.gz
+
 
 sudo tar -xf apache-maven-3.6.1-bin.tar.gz
 sudo mv apache-maven-3.6.1/ apache-maven/
